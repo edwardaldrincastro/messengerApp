@@ -46,15 +46,14 @@ const styles = StyleSheet.create({
     marginTop: offset,
     marginLeft: offset,
     fontSize: offset,
-    color:'#FA58AC'
+    color:'#000'
   },
   nameInput: {
     height: offset * 2,
     margin: offset,
     paddingHorizontal: offset,
-    borderColor: '#FA58AC',
-    borderWidth: 2,
-    borderRadius:20
+    borderColor: '#000',
+    borderWidth: 1,
   },
   buttonText: {
     marginLeft: offset,
